@@ -1,1 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Leckerli+One&family=Noto+Sans+KR:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 @import "tailwindcss";
+@theme {
+  --font-family: "Roboto", sans-serif;
+  --font-family-kr: "Noto Sans KR", sans-serif;
+  --font-family-title: "Leckerli One", sans-serif;
+  --font-size: 1rem;
+  --font-size-alt: 1.125rem;
+  --font-size-lg: 1.25rem;
+  --font-size-xl: 1.5rem;
+  --font-size-2xl: 1.875rem;
+  --font-size-3xl: 2.25rem;
+  --font-size-4xl: 3rem;
+  --color-black: #121212;
+}
