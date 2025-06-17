@@ -51,8 +51,6 @@ src/
 
 ⏳ 채팅방 인원 제한 기능
 
-⏳ 사용자 프로필/이름 관리
-
 ⏳ 모바일 대응 + 반응형 스타일 개선
 
 ⏳ 앱화 (React Native or Expo + Turborepo)
