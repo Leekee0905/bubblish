@@ -11,7 +11,7 @@
 - 👋 처음 입장 시 "인사해보세요" 입력으로 자연스럽게 참여 유도
 - 💨 채팅 메시지가 랜덤한 위치에서 말풍선처럼 튀어나오는 시각 효과
 - 🪄 Atomic Design 기반 UI 컴포넌트 아키텍처
-- 🎨 Tailwind CSS + Google Fonts로 세련된 디자인
+- 🎨 Tailwind CSS + Google Fonts
 - 🧪 Storybook 기반 컴포넌트 개발 환경
 - 🧱 Supabase 기반의 실시간 데이터 처리 (Auth, DB, Realtime)
 
