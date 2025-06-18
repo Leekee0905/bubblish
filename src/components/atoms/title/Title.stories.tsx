@@ -5,11 +5,6 @@ const meta: Meta<typeof Title> = {
   title: "Atoms/Title",
   component: Title,
   tags: ["autodocs"],
-  parameters: {
-    backgrounds: {
-      default: "dark",
-    },
-  },
 };
 
 export default meta;
