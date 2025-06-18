@@ -11,6 +11,7 @@ const config: StorybookConfig = {
     "@storybook/addon-vitest",
     "@storybook/addon-styling-webpack",
     "@storybook/addon-themes",
+    "@storybook/addon-actions",
   ],
   framework: {
     name: "@storybook/react-vite",
